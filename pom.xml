@@ -35,7 +35,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>sirinew1</username>
 						<password>Sivagiri@99</password>
-						<applicationName>azure10</applicationName>
+						<applicationName>azure12</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
